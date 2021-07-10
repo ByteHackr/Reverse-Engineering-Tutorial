@@ -15,8 +15,17 @@ Assembled by @0xInfection (Twitter)
 
 <br>
 
+## FREE Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf)
+UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
+
+<br>
+
 ## HACKING CHALLENGE 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
 ## HACKING CHALLENGE 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
+
+<br>
+
+## FREE Tor Everything PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Tor%20Everything.pdf)
 
 <br>
 
@@ -932,11 +941,140 @@ In this lesson we will discuss hacking the double primitive datatype.
 ## Pico Hacking Course
 
 ## Lesson 178: Pico Hacking Course (Part 1 - The Why, The How...)
-In this lesson we will discuss hacking the double primitive datatype.
+In this lesson we will discuss the basic setup of the development environment for the Raspberry Pi Pico.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-1-why-how-kevin-thomas/) to read the article on LinkedIn.
  
-## Lesson 179 - COMING SOON
+## Lesson 179: Pico Hacking Course (Part 2 - Hello World)
+In this lesson we will discuss the basic Hello World program.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-2-hello-world-kevin-thomas/) to read the article on LinkedIn.
+ 
+## Lesson 180: Pico Hacking Course (Part 3 - Debugging Hello World)
+In this lesson we will discuss debugging the basic Hello World program.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-3-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 181: Pico Hacking Course (Part 4 - Hacking Hello World)
+In this lesson we will discuss hacking the basic Hello World program.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-hello-world-kevin-thomas) to read the article on LinkedIn.
+
+## Lesson 182: Pico Hacking Course (Part 5 - char)
+In this lesson we will discuss the char data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-char-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 183: Pico Hacking Course (Part 6 - Debugging char)
+In this lesson we will discuss debugging the char data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-6-debugging-char-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 184: Pico Hacking Course (Part 7 - Hacking char)
+In this lesson we will discuss hacking the char data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-7-char-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 185: Pico Hacking Course (Part 8 - int)
+In this lesson we will discuss the int data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-8-int-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 186: Pico Hacking Course (Part 9 - Debugging int)
+In this lesson we will discuss debugging the int data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-9-debugging-int-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 187: Pico Hacking Course (Part 10 - Hacking int)
+In this lesson we will discuss hacking the int data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-10-int-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 188: Pico Hacking Course (Part 11 - float)
+In this lesson we will discuss the float data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-11-float-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 189: Pico Hacking Course (Part 12 - Debugging float)
+In this lesson we will discuss debugging the float data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-12-debugging-float-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 190: Pico Hacking Course (Part 13 - Hacking float)
+In this lesson we will discuss hacking the float data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-13-float-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 191: Pico Hacking Course (Part 14 - double)
+In this lesson we will discuss the double data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-14-double-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 192: Pico Hacking Course (Part 15 - Debugging double)
+In this lesson we will discuss debugging the double data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-15-debugging-double-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 193: Pico Hacking Course (Part 16 - Hacking double)
+In this lesson we will discuss hacking the double data type.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-16-double-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 194: Pico Hacking Course (Part 17 - "ABSOLUTE POWER CORRUPTS ABSOLUTELY!", The Tragic Tale Of Input...)
+In this lesson we will discuss the concept of proper input handling.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-17-absolute-power-corrupts-tragic-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 195: Pico Hacking Course (Part 18 - "FOR 800 YEARS HAVE I TRAINED JEDI!", The FORCE That IS Input...)
+In this lesson we will discuss the importance of proper input handling in addition to breaking down our custom input function.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-18-800-years-have-i-trained-jedi-force-thomas/) to read the article on LinkedIn.
+
+## Lesson 196: Pico Hacking Course (Part 19 - Input)
+In this lesson we will discuss creating an effective input architecture.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-19-input-kevin-thomas/) to read the article on LinkedIn.
+
+## Lesson 197: Pico Hacking Course (Part 20 - Debugging Input)
+In this lesson we will discuss debugging input.
+
+-> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-20-debugging-input-kevin-thomas/) to read the article on LinkedIn.
+
+<br>
+
+## C++ Fundamentals Course
+
+## Lesson 1: C++ Fundamentals Course (Chapter 1 - Hello World)
+In this lesson we will discuss the basics of C++ output.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 2: C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
+In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 3: C++ Fundamentals Course (Chapter 3 - Program Flow)
+In this lesson we will discuss the basics of program flow.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 4: C++ Fundamentals Course (Chapter 4 - Functions)
+In this lesson we will discuss functions.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 5: C++ Fundamentals Course (Chapter 5 - Pointers)
+In this lesson we will discuss pointers.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+## Lesson 6: C++ Fundamentals Course (Chapter 6 - Input)
+In this lesson we will discuss proper input validation.
+
+-> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+
+### UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
 
 <br>
 
