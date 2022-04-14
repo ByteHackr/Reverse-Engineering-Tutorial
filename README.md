@@ -1,35 +1,63 @@
 ![image](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial/blob/main/Reverse%20Engineering%20Tutorial.jpg?raw=true)
 
 # Reverse Engineering For Everyone!
-A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
-
-<br> 
-
-## PROMOTIONAL VIDEO - WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
-
-<br>
-
-## FREE E-BOOK [HERE](https://0xinfection.github.io/reversing/)
-## FREE PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
-Assembled by @0xInfection (Twitter)
-
-<br>
-
-## FREE Fundamental C++ PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf)
-UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
-
-<br>
-
-## HACKING CHALLENGE 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001)
-## HACKING CHALLENGE 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002)
-
-<br>
-
-## FREE Tor Everything PDF [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Tor%20Everything.pdf)
+A FREE comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.
 
 <br>
 
 ## Join DC540 Discord [HERE](https://discord.gg/TC9V9RCr5U)
+
+<br>
+
+## turbo-scanner [HERE](https://github.com/mytechnotalent/turbo-scanner)
+## turbo-attack [HERE](https://github.com/mytechnotalent/turbo-attack)
+
+<br><br>
+
+![image](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/DC540%20Angels%20Of%20Death.png?raw=true)
+
+## DC540 Hacking Challenge 0x00001 [HERE](https://github.com/mytechnotalent/dc540-0x00001) ON GITHUB
+## DC540 Hacking Challenge 0x00002 [MicroPython CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00002) ON GITHUB
+## DC540 Hacking Challenge 0x00003 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00003) ON GITHUB
+## DC540 Hacking Challenge 0x00004 [C CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00004) ON GITHUB
+## DC540 Hacking Challenge 0x00005a [HERE](https://github.com/mytechnotalent/dc540-0x00005a) ON GITHUB
+## DC540 Hacking Challenge 0x00005b [Assembler CTF] [HERE](https://github.com/mytechnotalent/dc540-0x00005b) ON GITHUB
+
+<br>
+
+## COURSE PROMOTIONAL VIDEO
+### WATCH NOW [HERE](https://youtu.be/Yz0zFsp0qzE) ON YOUTUBE
+
+<br>
+
+## Reverse Engineering E-BOOK [HERE](https://0xinfection.github.io/reversing/)
+## Reverse Engineering PDF [HERE](https://0xinfection.github.io/reversing/reversing-for-everyone.pdf)
+Assembled by @0xInfection (Twitter)
+
+<br>
+
+## STEM Reverse Engineering Demo [HERE](https://github.com/mytechnotalent/micro-bit-Reverse-Engineering)
+
+<br>
+
+## AArch64 Bytes [HERE](https://github.com/mytechnotalent/AArch64-Bytes)
+
+<br>
+
+## ToyOS [HERE](https://github.com/mytechnotalent/ToyOS)
+
+<br>
+
+## Hacking Windows E-BOOK [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf)
+UNDER DEVELOPMENT
+
+<br>
+
+## Zeek Network Security Monitor [HERE](https://github.com/mytechnotalent/Zeek-Network-Security-Monitor)
+
+<br>
+
+## Python For Kids PDF [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf)
 
 <br>
 
@@ -615,219 +643,247 @@ This tutorial will discuss hacking post-decrement operator.
 
 <br>
 
+## ARM-32 Project Course
+
+## Lesson 115: ARM-32 Project (Part 1 – Hacking Hello World)
+ARM 32-bit Raspberry Pi Hacking Hello World example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x01-ARM-32-Hacking-Hello-World/) to read the project on GitHub.
+
+## Lesson 116: ARM-32 Project (Part 2 – Hacking Int)
+ARM 32-bit Raspberry Pi Hacking Int example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x02-ARM-32-Hacking-Int/) to read the project on GitHub.
+
+## Lesson 117: ARM-32 Project (Part 3 – Hacking Float)
+ARM 32-bit Raspberry Pi Hacking Float example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x03-ARM-32-Hacking-Float/) to read the project on GitHub.
+
+## Lesson 118: ARM-32 Project (Part 4 – Hacking Double)
+ARM 32-bit Raspberry Pi Hacking Double example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x04-ARM-32-Hacking-Double/) to read the project on GitHub.
+
+## Lesson 119: ARM-32 Project (Part 5 – Hacking Char)
+ARM 32-bit Raspberry Pi Hacking Char example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x05-ARM-32-Hacking_Char/) to read the project on GitHub.
+
+## Lesson 120: ARM-32 Project (Part 6 – Hacking Char Pointer)
+ARM 32-bit Raspberry Pi Char Pointer example in Kali Linux.
+-> Click [HERE](https://github.com/mytechnotalent/0x06-ARM-32-Hacking-Char-Pointer/) to read the project on GitHub.
+
+<br>
+
 ## x64 Course
 
-## Lesson 115: x64 Course (Part 1 – The Cyber Revolution)
+## Lesson 121: x64 Course (Part 1 – The Cyber Revolution)
 This tutorial will discuss the cyber revolution.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-1-cyber-revolution-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 116: x64 Course (Part 2 - Transistors)
+## Lesson 122: x64 Course (Part 2 - Transistors)
 This tutorial will discuss transistors.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-2-transistors-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 117: x64 Course (Part 3 - Logic Gates)
+## Lesson 123: x64 Course (Part 3 - Logic Gates)
 This tutorial will discuss logic gates.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-3-logic-gates-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 118: x64 Course (Part 4 - Number Systems)
+## Lesson 124: x64 Course (Part 4 - Number Systems)
 This tutorial will discuss number systems.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-4-number-systems-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 119: x64 Course (Part 5 - Binary Addition)
+## Lesson 125: x64 Course (Part 5 - Binary Addition)
 This tutorial will discuss binary addition.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-5-binary-addition-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 120: x64 Course (Part 6 - Binary Subtraction)
+## Lesson 126: x64 Course (Part 6 - Binary Subtraction)
 This tutorial will discuss binary subtraction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-6-binary-subtraction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 121: x64 Course (Part 7 - Word Lengths)
+## Lesson 127: x64 Course (Part 7 - Word Lengths)
 This tutorial will discuss word lengths.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-7-word-lengths-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 122: x64 Course (Part 8 - General Architecture)
+## Lesson 128: x64 Course (Part 8 - General Architecture)
 This tutorial will discuss the general architecture.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-8-general-architecture-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 123: x64 Course (Part 9 - Calling Conventions)
+## Lesson 129: x64 Course (Part 9 - Calling Conventions)
 This tutorial will discuss calling conventions.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-9-calling-conventions-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 124: x64 Course (Part 10 - Boolean Instructions)
+## Lesson 130: x64 Course (Part 10 - Boolean Instructions)
 This tutorial will discuss boolean instructions.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-10-boolean-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 125: x64 Course (Part 11 - Pointers)
+## Lesson 131: x64 Course (Part 11 - Pointers)
 This tutorial will discuss pointers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-11-pointers-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 126: x64 Course (Part 12 - Load Effective Address)
+## Lesson 132: x64 Course (Part 12 - Load Effective Address)
 This tutorial will discuss load effective address.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-12-load-effective-address-thomas/) to read the article on LinkedIn.
 
-## Lesson 127: x64 Course (Part 13 - The Data Segment)
+## Lesson 133: x64 Course (Part 13 - The Data Segment)
 This tutorial will discuss the data segment.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-13-data-segment-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 128: x64 Course (Part 14 - SHL Instruction)
+## Lesson 134: x64 Course (Part 14 - SHL Instruction)
 This tutorial will discuss the shl instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-14-shl-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 129: x64 Course (Part 15 - SHR Instruction)
+## Lesson 135: x64 Course (Part 15 - SHR Instruction)
 This tutorial will discuss the shr instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-15-shr-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 130: x64 Course (Part 16 - ROL Instruction)
+## Lesson 136: x64 Course (Part 16 - ROL Instruction)
 This tutorial will discuss rol instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-16-rol-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 131: x64 Course (Part 17 - ROR Instruction)
+## Lesson 137: x64 Course (Part 17 - ROR Instruction)
 This tutorial will discuss the ror instruction.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-17-ror-instruction-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 132: x64 Course (Part 18 - Boot Sector Basics [Part 1])
+## Lesson 138: x64 Course (Part 18 - Boot Sector Basics [Part 1])
 This tutorial will discuss boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-18-boot-sector-basics-1-thomas/) to read the article on LinkedIn.
 
-## Lesson 133: x64 Course (Part 19 - Boot Sector Basics [Part 2])
+## Lesson 139: x64 Course (Part 19 - Boot Sector Basics [Part 2])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-18-boot-sector-basics-2-thomas/) to read the article on LinkedIn.
 
-## Lesson 134: x64 Course (Part 20 - Boot Sector Basics [Part 3])
+## Lesson 140: x64 Course (Part 20 - Boot Sector Basics [Part 3])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-20-boot-sector-basics-3-thomas/) to read the article on LinkedIn.
 
-## Lesson 135: x64 Course (Part 21 - Boot Sector Basics [Part 4])
+## Lesson 141: x64 Course (Part 21 - Boot Sector Basics [Part 4])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-21-boot-sector-basics-4-thomas/) to read the article on LinkedIn.
 
-## Lesson 136: x64 Course (Part 22 - Boot Sector Basics [Part 5])
+## Lesson 142: x64 Course (Part 22 - Boot Sector Basics [Part 5])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-22-boot-sector-basics-5-thomas/) to read the article on LinkedIn.
 
-## Lesson 137: x64 Course (Part 23 - Boot Sector Basics [Part 6])
+## Lesson 143: x64 Course (Part 23 - Boot Sector Basics [Part 6])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-23-boot-sector-basics-6-thomas/) to read the article on LinkedIn.
 
-## Lesson 138: x64 Course (Part 24 - Boot Sector Basics [Part 7])
+## Lesson 144: x64 Course (Part 24 - Boot Sector Basics [Part 7])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-24-boot-sector-basics-7-thomas/) to read the article on LinkedIn.
 
-## Lesson 139: x64 Course (Part 25 - Boot Sector Basics [Part 8])
+## Lesson 145: x64 Course (Part 25 - Boot Sector Basics [Part 8])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-25-boot-sector-basics-8-thomas/) to read the article on LinkedIn.
 
-## Lesson 140: x64 Course (Part 26 - Boot Sector Basics [Part 9])
+## Lesson 146: x64 Course (Part 26 - Boot Sector Basics [Part 9])
 This tutorial will discuss more boot sector basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-26-boot-sector-basics-9-thomas/) to read the article on LinkedIn.
 
-## Lesson 141: x64 Course (Part 27 - x64 Assembly [Part 1])
+## Lesson 147: x64 Course (Part 27 - x64 Assembly [Part 1])
 This tutorial will discuss x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-27-assembly-1-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 142: x64 Course (Part 28 - x64 Assembly [Part 2])
+## Lesson 148: x64 Course (Part 28 - x64 Assembly [Part 2])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-28-assembly-2-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 143: x64 Course (Part 29 - x64 Assembly [Part 3])
+## Lesson 149: x64 Course (Part 29 - x64 Assembly [Part 3])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-29-assembly-3-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 144: x64 Course (Part 30 - x64 Assembly [Part 4])
+## Lesson 150: x64 Course (Part 30 - x64 Assembly [Part 4])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-30-assembly-4-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 145: x64 Course (Part 31 - x64 Assembly [Part 5])
+## Lesson 151: x64 Course (Part 31 - x64 Assembly [Part 5])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-31-assembly-5-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 146: x64 Course (Part 32 - x64 Assembly [Part 6])
+## Lesson 152: x64 Course (Part 32 - x64 Assembly [Part 6])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-32-assembly-6-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 147: x64 Course (Part 33 - x64 Assembly [Part 7])
+## Lesson 153: x64 Course (Part 33 - x64 Assembly [Part 7])
 This tutorial will discuss more x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-33-assembly-7-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 148: x64 Course (Part 34 - x64 C++ 1 Code [Part 1])
+## Lesson 154: x64 Course (Part 34 - x64 C++ 1 Code [Part 1])
 This tutorial will discuss c++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-34-c-1-code-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 149: x64 Course (Part 35 - x64 C++ 2 Debug [Part 2])
+## Lesson 155: x64 Course (Part 35 - x64 C++ 2 Debug [Part 2])
 This tutorial will discuss more c++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-35-c-1-debug-2-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 150: x64 Course (Part 36 - x64 C++ 3 Hacking [Part 3])
+## Lesson 156: x64 Course (Part 36 - x64 C++ 3 Hacking [Part 3])
 This tutorial will discuss more c++ code as it relates to 64-bit assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-36-c-1-hacking-3-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 151: x64 Course (Part 37 - x64 C & Genesis Of Life)
+## Lesson 157: x64 Course (Part 37 - x64 C & Genesis Of Life)
 This tutorial will discuss c and how it relates to x64 assembly.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-37-c-genesis-life-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 152: x64 Course (Part 38 - x64 Networking Basics)
+## Lesson 158: x64 Course (Part 38 - x64 Networking Basics)
 This tutorial will discuss x64 networking basics.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-38-networking-basics-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 153: x64 Course (Part 39 - Why C?)
+## Lesson 159: x64 Course (Part 39 - Why C?)
 This tutorial will discuss the power of the c language.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-39-why-c-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 154: x64 Course (Part 40 - Hacking Hello World!)
+## Lesson 160: x64 Course (Part 40 - Hacking Hello World!)
 This tutorial will discuss hacking hello world.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-40-hacking-hello-world-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 155: x64 Course (Part 41 - Hacking Variables!)
+## Lesson 161: x64 Course (Part 41 - Hacking Variables!)
 This tutorial will discuss hacking variables.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-41-hacking-variables-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 156: x64 Course (Part 42 - Hacking Branches!)
+## Lesson 162: x64 Course (Part 42 - Hacking Branches!)
 This tutorial will discuss hacking branches.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-42-hacking-branches-kevin-m-thomas/) to read the article on LinkedIn.
 
-## Lesson 157: x64 Course (Part 43 - Hacking Pointers!)
+## Lesson 163: x64 Course (Part 43 - Hacking Pointers!)
 This tutorial will discuss hacking pointers.
 
 -> Click [HERE](https://www.linkedin.com/pulse/x64-reverse-engineering-part-43-hacking-pointers-kevin-m-thomas/) to read the article on LinkedIn.
@@ -836,102 +892,102 @@ This tutorial will discuss hacking pointers.
 
 ## ARM-64 Course
 
-## Lesson 158: ARM-64 Course (Part 1 - The Meaning Of Life)
+## Lesson 164: ARM-64 Course (Part 1 - The Meaning Of Life)
 In this lesson we will discuss the course concepts and the meaning of life.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-1-hacking-c-arm-64-part-meaning-life-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 159: ARM-64 Course (Part 2 - Development Setup)
+## Lesson 165: ARM-64 Course (Part 2 - Development Setup)
 In this lesson we will discuss how to set up our development in 64-bit ARM with Kali Linux.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-2-hacking-c-arm-64-part-development-setup-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 160: ARM-64 Course (Part 3 - "Hello World")
+## Lesson 166: ARM-64 Course (Part 3 - "Hello World")
 In this lesson we will discuss how to write and compile a simple hello world program in C++.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-2-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 161: ARM-64 Course (Part 4 - Debugging "Hello World")
+## Lesson 167: ARM-64 Course (Part 4 - Debugging "Hello World")
 In this lesson we will debug our simple hello world program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-4-hacking-c-arm-64-part-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 162: ARM-64 Course (Part 5 - Hacking "Hello World")
+## Lesson 168: ARM-64 Course (Part 5 - Hacking "Hello World")
 In this lesson we will hack our simple hello world program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-5-hacking-c-arm-64-part-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 163: ARM-64 Course (Part 6 - Basic I/O)
+## Lesson 169: ARM-64 Course (Part 6 - Basic I/O)
 In this lesson we will discuss how to write and compile a simple basicio program in C++ and discuss basic input validation.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-6-hacking-c-arm-64-part-basic-io-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 164: ARM-64 Course (Part 7 - Debugging Basic I/O)
+## Lesson 170: ARM-64 Course (Part 7 - Debugging Basic I/O)
 In this lesson we will discuss how to debug a simple basicio program in C++ and discuss basic input validation.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-7-hacking-c-arm-64-part-debugging-basic-io-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 165: ARM-64 Course (Part 8 - Hacking Basic I/O)
+## Lesson 171: ARM-64 Course (Part 8 - Hacking Basic I/O)
 In this lesson we will discuss how to hack a simple basicio program in C++ and discuss basic input validation.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-8-hacking-c-arm-64-part-basic-io-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 166: ARM-64 Course (Part 9 - Character Primitive Datatype)
+## Lesson 172: ARM-64 Course (Part 9 - Character Primitive Datatype)
 In this lesson we will discuss the char primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-9-hacking-c-arm-64-part-character-primitive-datatype-thomas/) to read the article on LinkedIn.
 
-## Lesson 167: ARM-64 Course (Part 10 - Debugging Character Primitive Datatype)
+## Lesson 173: ARM-64 Course (Part 10 - Debugging Character Primitive Datatype)
 In this lesson we will discuss debugging the char primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-10-hacking-c-arm-64-part-debugging-character-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 168: ARM-64 Course (Part 11 - Hacking Character Primitive Datatype)
+## Lesson 174: ARM-64 Course (Part 11 - Hacking Character Primitive Datatype)
 In this lesson we will discuss hacking the char primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/lesson-11-hacking-c-arm-64-part-character-primitive-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 169: ARM-64 Course (Part 12 - Boolean Primitive Datatype)
+## Lesson 175: ARM-64 Course (Part 12 - Boolean Primitive Datatype)
 In this lesson we will discuss the boolean primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-12-boolean-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 170: ARM-64 Course (Part 13 - Debugging Boolean Primitive Datatype)
+## Lesson 176: ARM-64 Course (Part 13 - Debugging Boolean Primitive Datatype)
 In this lesson we will discuss debugging the boolean primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-13-debugging-boolean-primitive-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 171: ARM-64 Course (Part 14 - Hacking Boolean Primitive Datatype)
+## Lesson 177: ARM-64 Course (Part 14 - Hacking Boolean Primitive Datatype)
 In this lesson we will discuss hacking the boolean primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-14-boolean-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 172: ARM-64 Course (Part 15 - Float Primitive Datatype)
+## Lesson 178: ARM-64 Course (Part 15 - Float Primitive Datatype)
 In this lesson we will discuss the float primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-15-float-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 173: ARM-64 Course (Part 16 - Debugging Float Primitive Datatype)
+## Lesson 179: ARM-64 Course (Part 16 - Debugging Float Primitive Datatype)
 In this lesson we will discuss debugging the float primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-16-debugging-float-primitive-datatype-thomas/) to read the article on LinkedIn.
 
-## Lesson 174: ARM-64 Course (Part 17 - Hacking Float Primitive Datatype)
+## Lesson 180: ARM-64 Course (Part 17 - Hacking Float Primitive Datatype)
 In this lesson we will discuss hacking the float primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-17-float-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 175: ARM-64 Course (Part 18 - Double Primitive Datatype)
+## Lesson 181: ARM-64 Course (Part 18 - Double Primitive Datatype)
 In this lesson we will discuss the double primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-18-double-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 176: ARM-64 Course (Part 19 - Debugging Double Primitive Datatype)
+## Lesson 182: ARM-64 Course (Part 19 - Debugging Double Primitive Datatype)
 In this lesson we will discuss debugging the double primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-19-debugging-double-primitive-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 177: ARM-64 Course (Part 20 - Hacking Double Primitive Datatype)
+## Lesson 183: ARM-64 Course (Part 20 - Hacking Double Primitive Datatype)
 In this lesson we will discuss hacking the double primitive datatype.
 
 -> Click [HERE](https://www.linkedin.com/pulse/hacking-c-arm-64-part-20-double-primitive-datatype-kevin-thomas/) to read the article on LinkedIn.
@@ -940,141 +996,360 @@ In this lesson we will discuss hacking the double primitive datatype.
 
 ## Pico Hacking Course
 
-## Lesson 178: Pico Hacking Course (Part 1 - The Why, The How...)
+## Lesson 184: Pico Hacking Course (Part 1 - The Why, The How...)
 In this lesson we will discuss the basic setup of the development environment for the Raspberry Pi Pico.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-1-why-how-kevin-thomas/) to read the article on LinkedIn.
  
-## Lesson 179: Pico Hacking Course (Part 2 - Hello World)
+## Lesson 185: Pico Hacking Course (Part 2 - Hello World)
 In this lesson we will discuss the basic Hello World program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-2-hello-world-kevin-thomas/) to read the article on LinkedIn.
  
-## Lesson 180: Pico Hacking Course (Part 3 - Debugging Hello World)
+## Lesson 186: Pico Hacking Course (Part 3 - Debugging Hello World)
 In this lesson we will discuss debugging the basic Hello World program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-3-debugging-hello-world-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 181: Pico Hacking Course (Part 4 - Hacking Hello World)
+## Lesson 187: Pico Hacking Course (Part 4 - Hacking Hello World)
 In this lesson we will discuss hacking the basic Hello World program.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-hello-world-kevin-thomas) to read the article on LinkedIn.
 
-## Lesson 182: Pico Hacking Course (Part 5 - char)
+## Lesson 188: Pico Hacking Course (Part 5 - char)
 In this lesson we will discuss the char data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-4-char-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 183: Pico Hacking Course (Part 6 - Debugging char)
+## Lesson 189: Pico Hacking Course (Part 6 - Debugging char)
 In this lesson we will discuss debugging the char data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-6-debugging-char-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 184: Pico Hacking Course (Part 7 - Hacking char)
+## Lesson 190: Pico Hacking Course (Part 7 - Hacking char)
 In this lesson we will discuss hacking the char data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-7-char-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 185: Pico Hacking Course (Part 8 - int)
+## Lesson 191: Pico Hacking Course (Part 8 - int)
 In this lesson we will discuss the int data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-8-int-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 186: Pico Hacking Course (Part 9 - Debugging int)
+## Lesson 192: Pico Hacking Course (Part 9 - Debugging int)
 In this lesson we will discuss debugging the int data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-9-debugging-int-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 187: Pico Hacking Course (Part 10 - Hacking int)
+## Lesson 193: Pico Hacking Course (Part 10 - Hacking int)
 In this lesson we will discuss hacking the int data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-10-int-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 188: Pico Hacking Course (Part 11 - float)
+## Lesson 194: Pico Hacking Course (Part 11 - float)
 In this lesson we will discuss the float data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-11-float-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 189: Pico Hacking Course (Part 12 - Debugging float)
+## Lesson 195: Pico Hacking Course (Part 12 - Debugging float)
 In this lesson we will discuss debugging the float data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-12-debugging-float-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 190: Pico Hacking Course (Part 13 - Hacking float)
+## Lesson 196: Pico Hacking Course (Part 13 - Hacking float)
 In this lesson we will discuss hacking the float data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-13-float-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 191: Pico Hacking Course (Part 14 - double)
+## Lesson 197: Pico Hacking Course (Part 14 - double)
 In this lesson we will discuss the double data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-14-double-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 192: Pico Hacking Course (Part 15 - Debugging double)
+## Lesson 198: Pico Hacking Course (Part 15 - Debugging double)
 In this lesson we will discuss debugging the double data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-15-debugging-double-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 193: Pico Hacking Course (Part 16 - Hacking double)
+## Lesson 199: Pico Hacking Course (Part 16 - Hacking double)
 In this lesson we will discuss hacking the double data type.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-16-double-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 194: Pico Hacking Course (Part 17 - "ABSOLUTE POWER CORRUPTS ABSOLUTELY!", The Tragic Tale Of Input...)
+## Lesson 200: Pico Hacking Course (Part 17 - "ABSOLUTE POWER CORRUPTS ABSOLUTELY!", The Tragic Tale Of Input...)
 In this lesson we will discuss the concept of proper input handling.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-17-absolute-power-corrupts-tragic-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 195: Pico Hacking Course (Part 18 - "FOR 800 YEARS HAVE I TRAINED JEDI!", The FORCE That IS Input...)
+## Lesson 201: Pico Hacking Course (Part 18 - "FOR 800 YEARS HAVE I TRAINED JEDI!", The FORCE That IS Input...)
 In this lesson we will discuss the importance of proper input handling in addition to breaking down our custom input function.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-18-800-years-have-i-trained-jedi-force-thomas/) to read the article on LinkedIn.
 
-## Lesson 196: Pico Hacking Course (Part 19 - Input)
+## Lesson 202: Pico Hacking Course (Part 19 - Input)
 In this lesson we will discuss creating an effective input architecture.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-19-input-kevin-thomas/) to read the article on LinkedIn.
 
-## Lesson 197: Pico Hacking Course (Part 20 - Debugging Input)
+## Lesson 203: Pico Hacking Course (Part 20 - Debugging Input)
 In this lesson we will discuss debugging input.
 
 -> Click [HERE](https://www.linkedin.com/pulse/pico-hacking-part-20-debugging-input-kevin-thomas/) to read the article on LinkedIn.
 
 <br>
 
-## C++ Fundamentals Course
+## AArch64 Bytes Articles
 
-## Lesson 1: C++ Fundamentals Course (Chapter 1 - Hello World)
-In this lesson we will discuss the basics of C++ output.
+## AArch64 Bytes Articles (Part 1: Reversing Exit)
+In this bite we learn about what happens at the very core of a 32-bit AArch64 instruction by reversing the exit Linux syscall.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+-> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-1-reversing-exit-f7e4775d5e14) to read the article on Medium.
 
-## Lesson 2: C++ Fundamentals Course (Chapter 2 - Variables, Constants, Arrays, Vectors, Statements, Operators, Strings)
-In this lesson we will discuss variables, constants, arrays, vectors, statements, operators and strings.
+## AArch64 Bytes Articles (Part 2: 64-bit Immediate Values)
+In this bite we learn about how to handle moving a 64-bit immediate value into a 64-bit register.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+-> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-2-64-bit-immediate-values-d9daa5256d76) to read the article on Medium.
 
-## Lesson 3: C++ Fundamentals Course (Chapter 3 - Program Flow)
-In this lesson we will discuss the basics of program flow.
+## AArch64 Bytes Articles (Part 3: Yet Another Upper)
+In this bite we learn how to create a simple parsing algorithm to convert a string's lowercase chars to uppercase, timeless Assembler example.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+-> Click [HERE](https://medium.com/@mytechnotalent/aarch-64-bytes-part-e-yet-another-upper-6dcb56bb7e91) to read the article on Medium.
 
-## Lesson 4: C++ Fundamentals Course (Chapter 4 - Functions)
-In this lesson we will discuss functions.
+<br>
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+## ToyOS 
 
-## Lesson 5: C++ Fundamentals Course (Chapter 5 - Pointers)
-In this lesson we will discuss pointers.
+## ToyOS Operating System
+ToyOS is a simple x86 OS that only accepts numeric values into the input stream and returns them to a standard out console.
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+-> Click [HERE](https://github.com/mytechnotalent/ToyOS)
 
-## Lesson 6: C++ Fundamentals Course (Chapter 6 - Input)
-In this lesson we will discuss proper input validation.
+<br>
 
--> Click [HERE](https://github.com/mytechnotalent/Reverse-Engineering/blob/main/Fundamental%20C%2B%2B.pdf) to read the FREE pdf book.
+## Hacking Windows Course
 
-### UNDER DEVELOPMENT, NEXT LESSON COMING SOON!
+## Hacking Windows Course (Chapter 1 - Hello World)
+This chapter covers the basics of designing a very simple Windows Assembly Language message box program in pure Assembly for both x86 and x64 architectures.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 2: Debugging Hello World x86)
+This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 3: Hacking Hello World x86)
+This chapter covers the dynamic reverse engineering analysis, hacking, of the Hello World app in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 4: Debugging Hello World x64)
+This chapter covers the dynamic reverse engineering analysis, debugging, of the Hello World app in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 5: Hacking Hello World x64)
+This chapter covers the dynamic reverse engineering analysis, hacking, of the Hello World app in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 6: Directories)
+This chapter covers reviewing the Windows API CreateDirectoryW and RemoveDirectoryW functions in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 7: Debugging Directories x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 8: Hacking Directories x86)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 9: Debugging Directories x64)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 10: Hacking Directories x64)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CreateDirectoryW and RemoveDirectoryW functions in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 11: CopyFile)
+This chapter covers reviewing the Windows API CopyFileW function in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 12: Debugging CopyFile x86)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CopyFileW function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 13: Hacking CopyFile x86)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CopyFileW function in x86 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 14: Debugging CopyFile x64)
+This chapter covers dynamic reverse engineering analysis, debugging, the Windows API CopyFileW function in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 15: Hacking CopyFile x86)
+This chapter covers dynamic reverse engineering analysis, hacking, the Windows API CopyFileW function in x64 Assembly.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## Hacking Windows Course (Chapter 16: MoveFile)
+This chapter covers reviewing the Windows API MoveFileW function in C.
+
+-> Click [HERE](https://github.com/mytechnotalent/Hacking-Windows/blob/main/Hacking_Windows_ALPHA.pdf) to read the FREE pdf book.
+
+## BOOK IS UNDER DEVELOPMENT
+
+<br>
+
+## Zeek Network Security Monitor Course
+
+## Zeek Network Security Monitor Course (Lesson 1: Setup)
+In this lesson we set up a basic Ubuntu computer connected directly to an inexpensive tap which connects to your home router. I have provided products you can purchase if you do not have existing parts however please feel free to use any network tap of your choosing and/or any additional Ethernet adapters or cables of your choosing.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-1-setup-f0ac2fb8eba8) to read the article on Medium.
+
+## Zeek Network Security Monitor Course (Lesson 2: alert-all-notices.zeek)
+In this lesson we create an alert by logging all notices that Zeek deems worthy of your attention to the notice.log file in addition to sending you an email.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-2-alert-all-notices-zeek-5591357f6f21) to read the article on Medium.
+
+## Zeek Network Security Monitor Course (Lesson 3: conn.log)
+In this lesson we will show the source IP addresses and ports and their destination IP addresses and ports.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-3-conn-log-c104ad5570bd) to read the article on Medium.
+
+## Zeek Network Security Monitor Course (Lesson 4: conn.log - 2)
+In this lesson we will show the source IP addresses that generated the most network traffic, organized in descending order.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-4-conn-log-2-723b4d344504) to read the article on Medium.
+
+## Zeek Network Security Monitor Course (Lesson 5: conn.log - 3)
+In this lesson we will show the destination ports that received the most network traffic, organized in descending order.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-5-conn-log-3-5e6ff976a9b5) to read the article on Medium.
+
+## Zeek Network Security Monitor Course (Lesson 6: conn.log - 4)
+In this lesson we will show the number of connections per protocol service.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-6-conn-log-4-d5d62610cc02) to read the article on Medium.
+
+## Zeek Network Security Monitor Course (Lesson 7: conn.log - 5)
+In this lesson we will show the distinct browsers used by the hosts.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-7-conn-log-5-99d5bc7e711f) to read the article on Medium.
+
+## Zeek Network Security Monitor Course (Lesson 8: conn.log - 6)
+In this lesson we will show the source and destination IP addresses of all UDP and TCP connections that lasted more than 90 seconds.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-8-conn-log-6-c19c7374483c) to read the article on Medium.
+
+## Zeek Network Security Monitor Course (Lesson 9: conn.log - 7)
+In this lesson we will show whether there any web servers operating on non-standardized ports.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-9-conn-log-7-eaea25b86ead) to read the article on Medium.
+
+## Zeek Network Security Monitor Course (Lesson 10: conn.log - 8)
+In this lesson we will show the state history of connections as a string of letters.
+
+-> Click [HERE](https://medium.com/@mytechnotalent/zeek-network-security-monitor-tutorial-part-10-conn-log-8-1de2cf970b7a) to read the article on Medium.
+
+<br>
+
+## Python For Kids Course
+
+## Python For Kids Course (Chapter 1 - Goals)
+This lesson will begin with the basic concepts of why kids should learn to program in Python.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/eAkOAuHkroI) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 2 - "Hello World")
+This lesson will step-by-step code our first program to have our little microcontroller say hello to the world!
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/QnlBMgSZUzU) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 3 - FUN With Images)
+This lesson will step-by-step code a FUN image making program where our little microcontroller will make various faces to his new friend.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/L6-R7LRj5ik) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 4 - FUN With Numbers)
+This lesson will step-by-step code a FUN program where we will work with numbers and learn about how to make variables with them. 
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/uSRpjvSyhC8) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 5 - FUN With Words)
+This lesson will step-by-step code a FUN program where we will work with words and learn about how to make variables with them. 
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/cMrzeprc3j4) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 6 - Fun With Word Lists)
+This lesson will step-by-step code a FUN program where we will work with word lists and learn about how to make variables with them. 
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/2cYZt0imQBk) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 7 - Fun With Music)
+This lesson will step-by-step code a FUN song making program where our little microcontroller will play various songs to his new friend. 
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/JMXXGRnR7fo) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 8 - Fun With Talking Robots)
+This lesson will step-by-step interact with a FUN talking robot where we can ask him questions and he will respond to us using his voice. 
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+-> Click [HERE](https://youtu.be/lBEWy5M4fuI) to watch the video on YouTube.
+
+## Python For Kids Course (Chapter 9 - Basic I/O)
+This lesson will discuss MicroPython basic input and output for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 10 - DataTypes & Numbers)
+This lesson will discuss MicroPython datatypes and numbers for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 11 - Conditional Logic)
+This lesson will discuss MicroPython conditional logic and application flow chart design for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 12 - Lists, Tuples, Dictionaries & Loops)
+This lesson will discuss MicroPython lists, tuples, dictionaries and loops for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 13 - Functions)
+This lesson will discuss MicroPython functions for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 14 - Classes)
+This lesson will discuss MicroPython classes for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
+
+## Python For Kids Course (Chapter 15 - Unittest)
+This lesson will discuss MicroPython unittest for the micro:bit.
+
+-> Click [HERE](https://github.com/mytechnotalent/Python-For-Kids/blob/main/Python_For_Kids_01r.pdf) to read the lesson in PDF format. <br>
 
 <br>
 
